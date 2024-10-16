@@ -15,5 +15,35 @@
       "name": "Product 32",
       "price": 322
     }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "John",
+      "age": 25,
+      "salary": 5000,
+      "department": "Sales"
+    },
+    {
+      "id": "2",
+      "name": "Jane",
+      "age": 30,
+      "salary": 7000,
+      "department": "Marketing"
+    },
+    {
+      "id": "a659",
+      "name": "Susi",
+      "age": "18",
+      "salary": "5600",
+      "department": "Sales"
+    },
+    {
+      "id": "b704",
+      "name": "Sitis",
+      "age": 25,
+      "salary": 6002,
+      "department": "Admi"
+    }
   ]
 }
